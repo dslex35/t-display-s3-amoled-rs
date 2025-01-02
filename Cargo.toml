@@ -20,7 +20,7 @@ hal = { package = "esp32s3-hal", version = "0.15.0", features = [
     "rt",
     
 ] }
-esp-backtrace = { version = "0.7.0", features = [
+esp-backtrace = { version = "0.14.2", features = [
     "esp32s3",
     "panic-handler",
     "exception-handler",
